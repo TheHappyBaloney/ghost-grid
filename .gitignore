@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+data/raw/*
+!data/raw/.gitkeep
+data/interim/*
+!data/interim/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+outputs/figures/*
+!outputs/figures/.gitkeep
+outputs/simulation_results/*
+!outputs/simulation_results/.gitkeep
+.ipynb_checkpoints/
+.fastf1_cache/
